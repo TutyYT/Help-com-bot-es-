@@ -1,0 +1,19 @@
+$title[📕 | Menu de Ajuda]
+$description[
+Olá $username Selencione abaixo a categoria que dezeja ver 
+
+👮 | Moderação
+🔧 | Utilidade
+🧩 | Diversão 
+💰 | Economia
+
+]
+$color[#FF0000]
+
+$addButton[no;moderação; 👮 | Moderação;secondary;no]
+
+$addButton[no;utilidade;🔧 | Utilidade;secondary;no]
+
+$addButton[no;diversão;🧩 | Diversão;secondary;no]
+
+$addButton[no;economia;💰 | Economia;secondary;no]
